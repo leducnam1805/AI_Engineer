@@ -1,0 +1,50 @@
+AI Engineer Roadmap
+1. Tháng 1 — Python for AI Engineering
+   - Python chuyên sâu cho ứng dụng AI.
+   - NumPy, Pandas, Pydantic.
+   - FastAPI, AsyncIO, REST API.
+   - Git, Docker, Testing.
+   Deliverable
+   Xây dựng AI Backend Service.
+2. Tháng 2 — Machine Learning Fundamentals
+   - Linear/Logistic Regression.
+   - Classification, Clustering.
+   - Feature Engineering.
+   - Model Training, Evaluation.
+   - Scikit-learn.
+   Deliverable
+   Xây dựng hệ thống dự đoán và đánh giá mô hình.
+3. Tháng 3 — Deep Learning & LLM
+   - Neural Networks.
+   - PyTorch cơ bản.
+   - Transformer Architecture.
+   - Tokenization, Embedding.
+   - LLM APIs, Open-source models.
+   Deliverable
+   Xây dựng ứng dụng LLM có Structured Output.
+4. Tháng 4 — RAG Engineering
+   - Vector Database.
+   - Chunking, Embedding.
+   - Semantic Search.
+   - Hybrid Search, Reranking.
+   - RAG Evaluation.
+   Deliverable
+   Xây dựng AI Knowledge Assistant.
+5. Tháng 5 — AI Agent Engineering
+   - Function Calling.
+   - Tool Use.
+   - Agent State & Memory.
+   - LangGraph.
+   - Multi-Agent Workflow.
+   - Human-in-the-loop.
+   Deliverable
+   Xây dựng AI Agent tự thực hiện một quy trình công việc.
+6. Tháng 6 — Production AI Engineering
+   - AI Evaluation.
+   - Observability.
+   - Guardrails & Security.
+   - Cost & Latency Optimization.
+   - Deployment.
+   - CI/CD.
+   Deliverable
+   Hoàn thiện một sản phẩm AI có thể đưa vào sử dụng thực tế.
