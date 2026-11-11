@@ -391,11 +391,12 @@ Bài 4 (Challenge): Viết function format_chat_history(messages)
        [USER]: Tell me about Python
 """
 def format_chat_history(messages: list[dict]) -> str:
-    line = []
-    for messages in messages:
-        role= messages["role"].upper()
-        content= messages["content"].upper()
-        line= f"[{role}]: {content}".join()
+    lines = []
+    for message in messages:
+        role= message["role"].upper()
+        content= message["content"]
+        lines.append(f"[{role}]: {content}")
+        return "\n".join(lines) 
 
 # Test:
 chat = [
